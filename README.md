@@ -3,6 +3,7 @@
 对自动生成对各种架构的kali 平台支持 arm arm64 amd64 armhf （项目代码：https://github.com/pelya/android-keyboard-gadget） ，添加了CP210x，FTDI，CH341 模块（现在你可以使用OTG+C118+osmocombb项目代码来进行GSM嗅探）。解锁了AM/FM 模块 现在你可以不使用SDR就可以接收AM/FM信号（大部分手机都内置AM/FM芯片，由于环境原因我没有进行测试。如果你需要测试可以用NextRadio APP 进行测试）
 对@rithvikvibhu WIFI支持模块 进行略微修改。添加了 蓝牙 键盘攻击模块的支持。
 构建内核代码:https://gitlab.com/HolyAngel/op6 感谢@HolyAngel 的优秀内核项目
+测试机oneplus6T：测试系统 OOS bate 4
 
 nethunter app 构建代码：https://github.com/simonpunk/nethunter-app 感谢@simonpunk 对HID 攻击模块 提供大力帮助
 
@@ -42,6 +43,7 @@ Fix full feature support. Support network card RTX series, MediaTek mtu7601u ser
 Added automatic support for the kali platform for various architectures arm arm64 amd64 armhf (project code: https://github.com/pelya/android-keyboard-gadget), added CP210x, FTDI, CH341 Module (now you can use the OTG+C118+osmocombb project code for GSM sniffing). Unlocking the AM/FM module Now you can receive AM/FM signals without using SDR (most phones have built-in AM/FM chips, I haven't tested them for environmental reasons. If you need testing you can test with NextRadio APP)
 Make minor modifications to the @rithvikvibhu WIFI Support Module. Added support for the Bluetooth Keyboard Attack Module.
 Nethunter app build code: https://github.com/simonpunk/nethunter-app Thanks to @simonpunk for providing great help to the HID attack module
+Test machine oneplus6T: test system OOS bate 4
 
 Magisk WIFI support module from @rithvikvibhu Thanks to the contribution of rithvikvibhu
 
