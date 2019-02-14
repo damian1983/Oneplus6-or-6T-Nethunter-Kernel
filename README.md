@@ -32,18 +32,21 @@ HID攻击模块测试视频：https://github.com/johanlike/Oneplus6-or-6T-Nethun
 github https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel
 kali linux QQ群：891225998（欢迎各路大佬萌新进群吹水）
 关于编译这个内核我进行了上百次测试，如需转载还请注明出处。
+
+
+
 English：
 Hello everyone, I am a rookie geek from China DJY (soy sauce...) Today I will bring you a Valentine's Day gift. It is the nethunter kernel of oneplus6 or 6t.
 Fix full feature support. Support network card RTX series, MediaTek mtu7601u series, fixed RTL-SDR function support, fixed hackrf one support, fixed HID attack support (thanks to [MENTION=3037370]simonpu[/MENTION]nk for providing great help to HID, thank you very much), fixed simonpunk code nethunter app Oneplus 6 and 6T support (project code: [url]https://github.com/simonpunk/nethunter-app) added [MENTION=3037370]simonpu[/MENTION]nk in the new code of the project[/url]
 Added automatic support for the kali platform for various architectures arm arm64 amd64 armhf (project code: https://github.com/pelya/android-keyboard-gadget), added CP210x, FTDI, CH341 Module (now you can use the OTG+C118+osmocombb project code for GSM sniffing). Unlocking the AM/FM module Now you can receive AM/FM signals without using SDR (most phones have built-in AM/FM chips, I haven't tested them for environmental reasons. If you need testing you can test with NextRadio APP)
-Make minor modifications to the [MENTION=5357907]rithvikvibhu[/MENTION] WIFI Support Module. Added support for the Bluetooth Keyboard Attack Module.
+Make minor modifications to the @rithvikvibhu WIFI Support Module. Added support for the Bluetooth Keyboard Attack Module.
 Nethunter app build code: https://github.com/simonpunk/nethunter-app Thanks to @simonpunk for providing great help to the HID attack module
 
-Magisk WIFI support module from [MENTION=5357907]rithvikvibhu[/MENTION] Thanks to the contribution of rithvikvibhu
+Magisk WIFI support module from @rithvikvibhu Thanks to the contribution of rithvikvibhu
 
 The kernel is built using the latest code from the above project
 Kernel download link: https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel
-HID attack module test video: https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/raw/master/4.x%E4%BB%A5%E4%B8%8A%E5%86%[/url] 85%E6%A0%B8HID%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91.webm
+HID attack module test video: https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/raw/master/4.x%E4%BB%A5%E4%B8%8A%E5%86%85%E6%A0%B8HID%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91.webm
 
 The following is a test screenshot:
 ![7](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-234924.jpg)
