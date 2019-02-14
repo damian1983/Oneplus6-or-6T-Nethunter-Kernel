@@ -13,12 +13,12 @@ magisk WIFI支持模块 来自@rithvikvibhu 感谢rithvikvibhu做出的贡献
 HID攻击模块测试视频：https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/raw/master/4.x%E4%BB%A5%E4%B8%8A%E5%86%85%E6%A0%B8HID%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91.webm
 
 以下是测试截图：
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-234924.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-234952.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235038.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235114.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235217.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235240.jpg)[/IMG]
+![7](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-234924.jpg)
+![8](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-234952.jpg)
+![9](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235038.jpg)
+![10](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235114.jpg)
+![11](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235217.jpg)
+![1](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235240.jpg)
 使用说明：
 关于usbarmy 的模块的使用说明可以参考这个链接，上面有详细的使用说明：https://forum.xda-developers.com/oneplus-5/development/burgerhunter-t3638810
 
@@ -49,12 +49,12 @@ Kernel download link: https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kern
 HID attack module test video: https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/raw/master/4.x%E4%BB%A5%E4%B8%8A%E5%86%85%E6%A0%B8HID%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91.webm
 
 The following is a test screenshot:
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-234924.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-234952.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235038.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235114.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235217.jpg)[/IMG]
-[IMG](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235240.jpg)[/IMG]
+![7](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-234924.jpg)
+![8](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-234952.jpg)
+![9](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235038.jpg)
+![10](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235114.jpg)
+![11](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235217.jpg)
+![1](https://raw.githubusercontent.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel/master/Screenshot_20190214-235240.jpg)
 Instructions for use:
 Instructions for using the usbarmy module can refer to this link for detailed instructions: https://forum.xda-developers.com/oneplus-5/development/burgerhunter-t3638810
 
