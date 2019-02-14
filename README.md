@@ -31,6 +31,7 @@ HID攻击模块测试视频：https://github.com/johanlike/Oneplus6-or-6T-Nethun
 问题反馈联系方式：Telegram:https://t.me/nethunter666 
 github https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel
 kali linux QQ群：891225998（欢迎各路大佬萌新进群吹水）
+我会不定期更新，请给我一个start
 关于编译这个内核我进行了上百次测试，如需转载还请注明出处。
 
 
@@ -67,4 +68,5 @@ Now you can use the nethunter kernel perfectly.
 Feedback Contact: Telegram: https://t.me/nethunter666
 Github https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel
 Kali linux QQ group: 891225998 (welcome all the way big 佬 萌 new into the group blowing water)
+I will update it from time to time, please give me a start
 I have conducted hundreds of tests on compiling this kernel. Please indicate the source if you need to reprint.
