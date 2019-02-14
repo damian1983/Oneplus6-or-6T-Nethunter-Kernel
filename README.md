@@ -34,7 +34,7 @@ github https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel
 kali linux QQ群：891225998（欢迎各路大佬萌新进群吹水）
 我会不定期更新，请给我一个start
 关于编译这个内核我进行了上百次测试，如需转载还请注明出处。
-
+如果你支持我的项目请给我一个star
 
 
 English：
@@ -72,3 +72,4 @@ Github https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel
 Kali linux QQ group: 891225998 (welcome all the way big 佬 萌 new into the group blowing water)
 I will update it from time to time, please give me a start
 I have conducted hundreds of tests on compiling this kernel. Please indicate the source if you need to reprint.
+If you support my project, please give me a star.
