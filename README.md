@@ -32,4 +32,4 @@ HID攻击模块测试视频：https://github.com/johanlike/Oneplus6-or-6T-Nethun
 关于编译这个内核我进行了上百次测试，如需转载还请注明出处
 问题反馈联系方式：Telegram:https://t.me/nethunter666 
 github https://github.com/johanlike/Oneplus6-or-6T-Nethunter-Kernel
-kali linux QQ群：891225998 （欢迎各路大佬萌新进来吹水～～～～～）
+kali linux QQ群：891225998 （欢迎各路大佬萌新进来吹水～～～～～
