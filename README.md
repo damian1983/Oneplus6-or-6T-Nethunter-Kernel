@@ -44,6 +44,7 @@ Added automatic support for the kali platform for various architectures arm arm6
 Make minor modifications to the @rithvikvibhu WIFI Support Module. Added support for the Bluetooth Keyboard Attack Module.
 Nethunter app build code: https://github.com/simonpunk/nethunter-app Thanks to @simonpunk for providing great help to the HID attack module
 Test machine oneplus6T: test system OOS bate 4
+Build the kernel code: https://gitlab.com/HolyAngel/op6 Thanks to @HolyAngel for the excellent kernel project
 
 Magisk WIFI support module from @rithvikvibhu Thanks to the contribution of rithvikvibhu
 
